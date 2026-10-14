@@ -116,8 +116,3 @@ School of Electrical and Computer Engineering, Belgrade · `2019 – 2023`
 <p align="center">
   <i>I like solving practical engineering problems and building software that stays maintainable as it grows.</i>
 </p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BojanGrujic2001&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BojanGrujic2001&layout=compact&hide_border=true&theme=tokyonight" alt="GitHub top languages" />
-</p>
